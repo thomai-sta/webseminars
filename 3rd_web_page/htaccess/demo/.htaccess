@@ -1,0 +1,3 @@
+RewriteEngine On
+
+RewriteRule ^some/random/folder$             index.html [L,QSA]

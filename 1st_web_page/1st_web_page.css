@@ -1,0 +1,47 @@
+html{ background-image: url(2.jpg) ; }
+
+body {
+	font-family:calibri,arial;
+	font-size: 16pt;
+}
+
+
+ul{
+	color:#C32329;
+}
+
+table{
+	text-align: center;
+	margin: 30pt;
+	border-style: double;
+	border-color: #875323;
+	border-width: 10pt;
+}
+
+td{
+	border-style: dotted;
+	border-color: #987654;
+	border-width: 2pt;
+}
+
+a {
+	text-decoration: none;
+}
+
+img{
+	padding-top: 153pt;
+	padding-bottom: 50pt;
+	padding-left: 100pt;
+
+}
+
+
+p{
+	text-align: right;
+	font-size: 60%;
+	color: #985212;
+}
+span{
+	font-size: 120%;
+	color:#454487;
+}

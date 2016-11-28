@@ -1,0 +1,55 @@
+body{ background-color:#2d45ac ; }
+
+div#header {
+	width: 1085px;
+	background-color:white;
+	border: 2px solid black;
+	margin:auto;
+	padding-left:30px;
+	padding-right:10px;
+}
+
+div#comic {
+	width: 1123px;
+	background-color:white;
+	border: 2px solid black;
+	margin:auto;
+	text-align:center;
+}
+
+ul#menu {
+	width: 1085px;
+	background-color:#eee;
+	background-image:url('menu.png');
+	background-position:right bottom;
+	background-repeat:no-repeat;
+	border: 2px solid black;
+	margin:auto;
+}
+
+div#header p {
+	text-color:#333;
+	font-family:serif, arial;
+}
+
+.romance {
+	color:#ac2d2d;
+}
+
+.sarcasm{
+	color:#30ac2d;
+}
+
+.math{
+	color:#2d45ac;
+}
+
+.language{
+	color:#e99613;
+}
+
+strong {
+	background-color:#fc6;
+}
+
+
