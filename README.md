@@ -9,3 +9,5 @@ and Apache configuration. In total, the seminars had a duration of 40 hours, whi
 an additional time of personal occupation for familiarization with and penetration of
 the above technologies was essential, in order to fully utilize them in the context of
 individual practical assignments and one final cooperative project.
+
+http://webseminars.ee.auth.gr/
